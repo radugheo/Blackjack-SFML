@@ -5,8 +5,6 @@
 #include <windows.h>
 #define _WIN64_WINNT 0x0500
 
-///test
-
 using namespace sf;
 using namespace std;
 
